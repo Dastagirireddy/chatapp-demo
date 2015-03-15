@@ -1,0 +1,1 @@
+This demo will show you how to use SVN repository on eclipse.
